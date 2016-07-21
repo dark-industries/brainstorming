@@ -12,6 +12,9 @@
 - Market Efficient Identity - neoliberalism and the personal brand
 
 ###products
-????????????????????????????????
+- text-editor
+- male chat bot landing page
+- "i'm going to train a model that outputs a myers-briggs personality type based on your commit messages"
+- reader view chrome extension
 
 √√√√√√√√√ good work
